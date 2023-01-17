@@ -1,0 +1,15 @@
+{
+  "name": "dalmassodev",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify": "^4.13.0"
+  }
+}
