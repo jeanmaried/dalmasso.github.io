@@ -25,7 +25,7 @@ Not only do we help you build your dream app, we also setup all the necessary de
         <img style="width: auto; height: 40px;" src="_images/picketfund-logo.png" />
     </div>
     <div class="holder">
-        <img style="width: auto; height: 40px;" src="_images/allaware-logo.png" />
+        <img style="width: auto; height: 60px;" src="_images/allaware-logo.png" />
     </div>
 <style>
 .holder {   
