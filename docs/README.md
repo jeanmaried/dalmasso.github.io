@@ -31,14 +31,7 @@ Not only do we help you build your dream app, we also setup all the necessary de
 .holder {   
   display: inline-block;   
   margin: 20px 20px; 
-  /* border-style: solid; */
 }
 </style>
 
 </div>
-
-- France Boisson (Heineken)
-- Garage and Dynamite
-- HP Inc.
-- AllAware
-- PicketFund
