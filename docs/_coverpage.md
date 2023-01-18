@@ -1,12 +1,12 @@
-![logo](_media/logo.png)
+<!-- ![logo](_media/logo.png) -->
 
 # Dalmasso Dev
 
-> Bring your dream app to life
+> Bring your dream idea to life
 
 - Lightning fast MVP development
 - Technical Leadership
-- React-Native / NodeJS Expertise
+- React / React-Native / NodeJS Expertise
 
 <!-- [About](#)
 [Blog](blog1.md) -->
