@@ -1,6 +1,6 @@
-![logo](_media/logo.svg)
+![logo](_media/logo.png)
 
-# dalmasso dev
+# Dalmasso Dev
 
 > Bring your dream app to life
 
@@ -8,5 +8,5 @@
 - Technical Leadership
 - React-Native / NodeJS Expertise
 
-[About](#)
-[Blog](blog1.md)
+<!-- [About](#)
+[Blog](blog1.md) -->

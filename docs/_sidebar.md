@@ -1,7 +1,7 @@
-- About
+<!-- - About
 
   - [Portfolio](about.md)
 
 - Blog
 
-  - [Blog 1](blog1.md)
+  - [Blog 1](blog1.md) -->
