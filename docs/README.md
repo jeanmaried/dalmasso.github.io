@@ -1,4 +1,4 @@
-# Bring your MVP to life fast⚡️
+<!-- # Bring your MVP to life fast⚡️
 
 ## What I do
 
@@ -28,10 +28,10 @@ Not only do I help you build your dream app, I also setup all the necessary deve
         <img style="width: auto; height: 60px;" src="_images/allaware-logo.png" />
     </div>
 <style>
-.holder {   
-  display: inline-block;   
-  margin: 20px 20px; 
+.holder {
+  display: inline-block;
+  margin: 20px 20px;
 }
 </style>
 
-</div>
+</div> -->
